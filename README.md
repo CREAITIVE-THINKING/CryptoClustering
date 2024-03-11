@@ -1,4 +1,4 @@
-# Cryptocurrency Clustering Project Documentation
+# Cryptocurrency Clustering and K-Means Project Documentation
 
 This project aims to segment cryptocurrencies based on their market data using Principal Component Analysis (PCA) and K-means clustering. The goal is to identify patterns in the cryptocurrency market and group similar cryptocurrencies together.
 
